@@ -12,5 +12,7 @@
 
 ## Installation
 ```bash
-./ingress-nginx
+chmod +x ingress-nginx.sh
+
+./ingress-nginx.sh
 ```
